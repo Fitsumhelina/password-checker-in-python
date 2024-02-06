@@ -3,7 +3,7 @@ password=input("enter the password :  ")
 if len(password)>0:
     if password.islower() and len(password)>8 :
        print("-------------------------------------------------")
-       print("       password is valid    ")
+       print("       password is valid password   ")
       
       
     else :
