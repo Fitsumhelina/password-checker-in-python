@@ -1,2 +1,4 @@
 # password-checker-in-python
-my first python code to commit to GitHub.  
+code written using python to validate the user imput and give respons 
+
+password validation on 2023
